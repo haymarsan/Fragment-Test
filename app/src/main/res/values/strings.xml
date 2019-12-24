@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fragment Show</string>
+    <array name="bg_color">
+        <item name="bg_screen1">#f64c73</item>
+        <item name="bg_screen1">#20d2bb</item>
+        <item name="bg_screen1">#3395ff</item>
+        <item name="bg_screen1">#c873f4</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
